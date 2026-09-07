@@ -38,6 +38,42 @@ activities = {
         "schedule": "Mondays, Wednesdays, Fridays, 2:00 PM - 3:00 PM",
         "max_participants": 30,
         "participants": ["john@mergington.edu", "olivia@mergington.edu"]
+    },
+    "Soccer Team": {
+        "description": "Practice teamwork, fitness, and match strategy on the field",
+        "schedule": "Wednesdays and Fridays, 4:00 PM - 5:30 PM",
+        "max_participants": 18,
+        "participants": []
+    },
+    "Basketball Club": {
+        "description": "Develop shooting, passing, and defensive skills in competitive drills",
+        "schedule": "Tuesdays and Thursdays, 3:30 PM - 5:00 PM",
+        "max_participants": 15,
+        "participants": []
+    },
+    "Drama Club": {
+        "description": "Explore acting, stage performance, and creative storytelling",
+        "schedule": "Mondays, 3:45 PM - 5:00 PM",
+        "max_participants": 15,
+        "participants": []
+    },
+    "Art Workshop": {
+        "description": "Create drawings, paintings, and mixed-media projects in a studio setting",
+        "schedule": "Thursdays, 3:30 PM - 5:00 PM",
+        "max_participants": 12,
+        "participants": []
+    },
+    "Math Olympiad": {
+        "description": "Solve advanced math challenges and prepare for mathematics competitions",
+        "schedule": "Wednesdays, 3:30 PM - 4:45 PM",
+        "max_participants": 16,
+        "participants": []
+    },
+    "Debate Team": {
+        "description": "Practice argumentation, research, and public speaking skills",
+        "schedule": "Tuesdays, 4:00 PM - 5:00 PM",
+        "max_participants": 14,
+        "participants": []
     }
 }
 
